@@ -1,6 +1,6 @@
 # Aula prática: Agendamento de Processos
 
-**Alunos:** Felipe Sperli Neto e Pedro Henrique Bassi Parma
+**Aluno:** Felipe Sperli Neto 
 
 Resolução do exercício da disciplina de IA sobre algoritmos de escalonamento de processos.
 Notebook original: https://github.com/aannddrree/disciplinaIA/blob/main/aula_pratica_agendamento_processos.ipynb
