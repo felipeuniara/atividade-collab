@@ -1,6 +1,6 @@
 # Aula prática: Agendamento de Processos
 
-**Aluno:** Felipe Sperli Neto 
+**Aluno:** Felipe Sperli Neto
 
 Resolução do exercício da disciplina de IA sobre algoritmos de escalonamento de processos.
 Notebook original: https://github.com/aannddrree/disciplinaIA/blob/main/aula_pratica_agendamento_processos.ipynb
@@ -11,11 +11,11 @@ Notebook original: https://github.com/aannddrree/disciplinaIA/blob/main/aula_pra
 
 ## O que foi feito
 
-1. Adicionamos o processo P4 (chegada 3, burst 1).
-2. Comparamos FCFS com Round Robin usando quantum 1, 2 e 4.
-3. Respondemos qual política favoreceu o P4.
-4. Implementamos o SJF (não preemptivo).
-5. Montamos uma tabela e um gráfico comparando as políticas e escrevemos a conclusão.
+1. Adicionei o processo P4 (chegada 3, burst 1).
+2. Comparei FCFS com Round Robin usando quantum 1, 2 e 4.
+3. Respondi qual política favoreceu o P4.
+4. Implementei o SJF (não preemptivo).
+5. Montei uma tabela e um gráfico comparando as políticas e escrevi a conclusão.
 
 ## Resultados
 
